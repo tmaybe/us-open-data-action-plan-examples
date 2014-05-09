@@ -1,1 +1,1 @@
-Selected Examples of Data Releases from the US Open Data Action Plan in CSV format
+CSV version of the "Selected Examples of Data Releases" spreadsheet in [the PDF describing the White House's Open Data Action Plan](http://m.whitehouse.gov/blog/2014/05/09/continued-progress-and-plans-open-government-data-0).
